@@ -1,0 +1,637 @@
+<!DOCTYPE html>
+
+<html lang="en" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml">
+<head>
+<title></title>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<!--[if mso]><xml><o:OfficeDocumentSettings><o:PixelsPerInch>96</o:PixelsPerInch><o:AllowPNG/></o:OfficeDocumentSettings></xml><![endif]-->
+<style>
+		* {
+			box-sizing: border-box;
+		}
+
+		body {
+			margin: 0;
+			padding: 0;
+		}
+
+		a[x-apple-data-detectors] {
+			color: inherit !important;
+			text-decoration: inherit !important;
+		}
+
+		#MessageViewBody a {
+			color: inherit;
+			text-decoration: none;
+		}
+
+		p {
+			line-height: inherit
+		}
+
+		.desktop_hide,
+		.desktop_hide table {
+			mso-hide: all;
+			display: none;
+			max-height: 0px;
+			overflow: hidden;
+		}
+
+		@media (max-width:640px) {
+
+			.fullMobileWidth,
+			.image_block img.big,
+			.row-content {
+				width: 100% !important;
+			}
+
+			.mobile_hide {
+				display: none;
+			}
+
+			.stack .column {
+				width: 100%;
+				display: block;
+			}
+
+			.mobile_hide {
+				min-height: 0;
+				max-height: 0;
+				max-width: 0;
+				overflow: hidden;
+				font-size: 0px;
+			}
+
+			.desktop_hide,
+			.desktop_hide table {
+				display: table !important;
+				max-height: none !important;
+			}
+
+			.row-9 .column-1 .block-1.button_block a span,
+			.row-9 .column-1 .block-1.button_block div,
+			.row-9 .column-1 .block-1.button_block div span {
+				font-size: 18px !important;
+				line-height: 1.8 !important;
+			}
+
+			.row-2 .column-1 {
+				padding: 10px 0 10px 15px !important;
+			}
+
+			.row-7 .column-1 {
+				padding: 0 !important;
+			}
+		}
+	</style>
+</head>
+<body style="background-color: #e4e4e4; margin: 0; padding: 0; -webkit-text-size-adjust: none; text-size-adjust: none;">
+<table border="0" cellpadding="0" cellspacing="0" class="nl-container" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-color: #e4e4e4;" width="100%">
+<tbody>
+<tr>
+<td>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="row row-1" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;" width="100%">
+<tbody>
+<tr>
+<td>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="row-content stack" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-color: #c8c8c6; border-bottom: 0 solid #CFD0D3; border-left: 0 solid #CFD0D3; border-right: 0px solid #CFD0D3; border-top: 0 solid #CFD0D3; color: #000000; width: 620px;" width="620">
+<tbody>
+<tr>
+<td class="column column-1" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-weight: 400; text-align: left; padding-left: 10px; padding-right: 10px; vertical-align: top; border-top: 0px; border-right: 0px; border-bottom: 0px; border-left: 0px;" width="100%">
+<div class="spacer_block" style="height:5px;line-height:5px;font-size:1px;"> </div>
+<table border="0" cellpadding="0" cellspacing="0" class="text_block block-2 mobile_hide" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word;" width="100%">
+<tr>
+<td class="pad" style="padding-bottom:10px;padding-left:5px;padding-right:5px;padding-top:10px;">
+<div style="font-family: sans-serif">
+<div class="" style="font-size: 14px; mso-line-height-alt: 16.8px; color: #000000; line-height: 1.2; font-family: Helvetica Neue, Helvetica, Arial, sans-serif;">
+<p style="margin: 0; text-align: center; mso-line-height-alt: 16.8px;"><span style="font-size:11px;"> %%IGNORE%% Haz clic <a href="http://ebm.email.americanexpress.com/c/tag/%%t%%/doc.html?t_sparams=%%t_sparams%%" rel="noopener" style="text-decoration: underline; color: #0bb0dd;" target="_blank"><u><strong>aquí</strong></u></a> si no puedes ver correctamente esta imagen. %%IGNORE%%</span></p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" class="text_block block-3 desktop_hide" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; mso-hide: all; display: none; max-height: 0; overflow: hidden; word-break: break-word;" width="100%">
+<tr>
+<td class="pad" style="padding-bottom:10px;padding-left:5px;padding-right:5px;padding-top:10px;">
+<div style="font-family: sans-serif">
+<div class="" style="font-size: 14px; mso-line-height-alt: 16.8px; color: #000000; line-height: 1.2; font-family: Helvetica Neue, Helvetica, Arial, sans-serif;">
+<p style="margin: 0; text-align: center; mso-line-height-alt: 16.8px;"><span style="font-size:11px;"> %%IGNORE%% Haz clic <a href="http://ebm.email.americanexpress.com/c/tag/%%t%%/doc.html?t_sparams=%%t_sparams%%" rel="noopener" style="text-decoration: underline; color: #0bb0dd;" target="_blank"><u><strong>aquí</strong></u></a> si no puedes ver</span></p>
+<p style="margin: 0; text-align: center; mso-line-height-alt: 13.2px;"><span style="font-size:11px;">correctamente esta imagen. %%IGNORE%%</span></p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+<div class="spacer_block" style="height:5px;line-height:5px;font-size:1px;"> </div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="row row-2" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;" width="100%">
+<tbody>
+<tr>
+<td>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="row-content" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-color: #ffffff; border-bottom: 0 solid #FFFFFF; border-left: 0 solid #FFFFFF; border-right: 0px solid #FFFFFF; border-top: 0 solid #FFFFFF; color: #000000; width: 620px;" width="620">
+<tbody>
+<tr>
+<td class="column column-1" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-weight: 400; text-align: left; padding-left: 15px; vertical-align: top; padding-top: 10px; padding-bottom: 5px; border-top: 0px; border-right: 0px; border-bottom: 0px; border-left: 0px;" width="100%">
+<table border="0" cellpadding="0" cellspacing="0" class="image_block block-1" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;" width="100%">
+<tr>
+<td class="pad" style="width:100%;padding-right:0px;padding-left:0px;">
+<div align="left" class="alignment" style="line-height:10px"><img src="https://lh3.googleusercontent.com/hPoEluFGx4BwVwSaoiKChyphC053Da_FaWUtKhH54C8No_IUzKd8f4p2Iuw1hgq_QiSyVCjtFC_geTT_jO3XmjkqrYQaV0TWjK7-FqFxoHta8GUdJZl6T0Atmzb9Xf8Kg8wSZ4RaWZnTIEM0-NEtfqaZtbpbjbqumsPUkGEIlffye_8sQvKEiR8LNAGlpz0VxxduqRPMp4M0PvcHzNFYp-DSHM1mEMPkmfuQjxNslwTQa-DYf6GqpfEE8dttIla68WInRZ1B1Acm4DZNzfxkMS7z-iCzazn339GlbnJwSYGBmpUYLncwdJ8wAI0tiSAF4SRlXeS0tzqo9OJXxv84jbugPXDCcKubFTG7Bl2ocv8lcFrusMrnr3yMewMLPGMc-GnRiyN3iepgwDDcDrEMUwrbI4CJyj36XhYfDIynwNPoDp2Ag3YoWq7T9YWTJ7dvjd5uw9gzt3nwOSYcU8T17xQBFlDD3i4XF1sDPxE0-KC66mjJZuAM-gdJZEAWcBzYbA2OS0TJ0U4zblyTlQOzhcBovzkE1OtigfdWA0osHncE1QVDAtWdZ4KS9H0LID-fSaFmCn9vUW60q6u4kiIsvMuRlG6WcAI9pX4mOV3VD9tzQZTwSjWwAKQh8U6-8IG3SKY8W04OEsjh4ggoteaPCWdkpFZ3vUGEp4aETGJyqEdalDFySYkAAUDYqIujQWMKSCGEX9G5FgQ2cD1HpLFv_Gk9EhFr2BEfsAjc0SJt0B9wFGCoozJBqLZJLq22zIEuZf8YDg20jtU1E_bHgjWcdkN5Kb4Z4d_C9ipB8oGuxScGXs9nNFKOJJt2DODI2911DrjgO4GZa9NLLkYpGlPn8QQCQCrPSr2_am46kTgS2YgLZzevs8nyXPbo-ApiQwXByyqsC2iouAxXkgLf3SsHt1rqPv4l7Pf2TJpNId5iSrA=w256-h93-s-no?authuser=0" style="display: block; height: auto; border: 0; width: 212px; max-width: 100%;" width="212"/></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="row row-3" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;" width="100%">
+<tbody>
+<tr>
+<td>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="row-content" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-color: #ffffff; color: #000000; width: 620px;" width="620">
+<tbody>
+<tr>
+<td class="column column-1" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-weight: 400; text-align: left; padding-left: 10px; vertical-align: top; padding-top: 5px; padding-bottom: 15px; border-top: 0px; border-right: 0px; border-bottom: 0px; border-left: 0px;" width="100%">
+<table border="0" cellpadding="10" cellspacing="0" class="text_block block-1" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word;" width="100%">
+<tr>
+<td class="pad">
+<div style="font-family: sans-serif">
+<div class="" style="font-size: 14px; mso-line-height-alt: 16.8px; color: #000000; line-height: 1.2; font-family: Helvetica Neue, Helvetica, Arial, sans-serif;">
+<p style="margin: 0; font-size: 14px; mso-line-height-alt: 16.8px;">Hola, %%Nombre del contacto%%</p>
+<p style="margin: 0; font-size: 14px; mso-line-height-alt: 16.8px;">%%Nombre de la Empresa%%</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="row row-4" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;" width="100%">
+<tbody>
+<tr>
+<td>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="row-content stack" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-color: #ffffff; border-radius: 0; color: #000000; width: 620px;" width="620">
+<tbody>
+<tr>
+<td class="column column-1" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-weight: 400; text-align: left; vertical-align: top; padding-top: 0px; padding-bottom: 0px; border-top: 0px; border-right: 0px; border-bottom: 0px; border-left: 0px;" width="100%">
+<table border="0" cellpadding="0" cellspacing="0" class="image_block block-1" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;" width="100%">
+<tr>
+<td class="pad" style="width:100%;padding-right:0px;padding-left:0px;">
+<div align="center" class="alignment" style="line-height:10px"><a href="https://www.americanexpress.com/es-mx/negocios/empresarial/solicita/corp/" style="outline:none" tabindex="-1" target="_blank"><img alt="Tu Negocio ya merece realizar compras sin afectar tu capital. Solicítala ahora." class="fullMobileWidth" src="https://lh3.googleusercontent.com/LDlf8FUV0vqKpLbiYPit9idx3z_wDkgTbyAunKKHWug7pIKLGxl2S9D1qdmuClAUNUo9L0pUguvZtJJ_YbnoJRE2J1ciqLzXemY8pOZ93T1uffd_cfjxw_TW1EIwJojpZUcNnygZG8ofYurpB46URdKPRAyndggICu33UUL3YEMjuvusqzUBofrXGPA0d6Z8G-jR1sgH9hJ2BRInyDFNPKFjmiZ-hU3XxvaIOUOhXxqOPHYYJl3S_oJW81u83UqtdQkR1ApdLBy_uhfk4uLNJBxuxNoKzlaHC1npo6rIniUWCWKw0nshwnhBrYYBEr8EXyfvCzyom5XISL3k9i1nGrWeuaz-xVT7MnVCK6ay2rEQh-18yixomxp7izauroSLG6pQtBP_0OJ8IjyJ6PwMMT0SgdgM2gZtlgwitV6O-pQT6Itm8Cl0g8toVa81VkY3-z9yqlDvyhJ11kIzsmLXgwC6c7XVBCPK0B7l4n1Rn3cQG34IKJHx10wdRfFUllq8uDESvWyJUrQ_pnJtruWNwgXANiNOI6ilQlAs8FxpTIcyTVInt-3LSJoHAI0Nk_m_9FHQIJopVYwgufdbphHvQgkWEcjMidb2YzSkbnYYCMFUjrw5b6qUUn7qq0vEgec3lV_3X4oP-HWPqY2CsvmLSkwP0COkdNPcWOcB2XoHU-f4DeuzaZOLJXQM-qHislVCVwHFy32zlipmh4auwZBboJ3vNyrKKHtlYhjacMPEEraWR8V2VnzHCoGYmhzY2GNWu_ieSNDzhIHYSO3pvCIyGIa3J2vfb-zw7awV_BSPA_WR1t_1iwJmpUq-iyG2aXLoBHY_k-RVCd_4sKVmeYcyggKlqjWxwFmbBt3_A3eDFc3hAHjEYimyRd1_wVl-ZZXfqzvdXPCCla3h-QoegEpEpMzZKNEK87RcDsqO-NW64jM=w1200-h768-s-no?authuser=0" style="display: block; height: auto; border: 0; width: 620px; max-width: 100%;" title="Tu Negocio ya merece realizar compras sin afectar tu capital. Solicítala ahora." width="620"/></a></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="row row-5" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;" width="100%">
+<tbody>
+<tr>
+<td>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="row-content stack" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-color: #ffffff; border-radius: 0; color: #000000; width: 620px;" width="620">
+<tbody>
+<tr>
+<td class="column column-1" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-weight: 400; text-align: left; padding-left: 10px; padding-right: 10px; vertical-align: top; border-top: 0px; border-right: 0px; border-bottom: 0px; border-left: 0px;" width="100%">
+<div class="spacer_block" style="height:10px;line-height:10px;font-size:1px;"> </div>
+<table border="0" cellpadding="10" cellspacing="0" class="text_block mobile_hide block-2" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word;" width="100%">
+<tr>
+<td class="pad">
+<div style="font-family: Arial, sans-serif">
+<div class="" style="font-size: 14px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; mso-line-height-alt: 16.8px; color: #00175a; line-height: 1.2;">
+<p style="margin: 0; text-align: center; font-size: 24px; mso-line-height-alt: 28.799999999999997px;"><span style="font-size:24px;"><strong>La Tarjeta te da la flexibilidad que</strong></span></p>
+<p style="margin: 0; text-align: center; font-size: 24px; mso-line-height-alt: 28.799999999999997px;"><span style="font-size:24px;"><strong>tu Negocio merece para pagar.</strong></span></p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="10" cellspacing="0" class="text_block desktop_hide block-3" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; mso-hide: all; display: none; max-height: 0; overflow: hidden; word-break: break-word;" width="100%">
+<tr>
+<td class="pad">
+<div style="font-family: Arial, sans-serif">
+<div class="" style="font-size: 14px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; mso-line-height-alt: 16.8px; color: #00175a; line-height: 1.2;">
+<p style="margin: 0; text-align: center; mso-line-height-alt: 16.8px;"><span style="font-size:16px;"><strong>La Tarjeta te da la flexibilidad que tu Negocio merece para pagar.</strong></span></p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="10" cellspacing="0" class="text_block mobile_hide block-4" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word;" width="100%">
+<tr>
+<td class="pad">
+<div style="font-family: Arial, sans-serif">
+<div class="" style="font-size: 14px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; mso-line-height-alt: 16.8px; color: #00175a; line-height: 1.2;">
+<p style="margin: 0; font-size: 24px; text-align: center; mso-line-height-alt: 28.799999999999997px;"><span style="font-size:24px;">American Express te ofrece múltiples</span></p>
+<p style="margin: 0; font-size: 24px; text-align: center; mso-line-height-alt: 28.799999999999997px;"><span style="font-size:24px;">soluciones de financiamiento</span></p>
+<p style="margin: 0; font-size: 24px; text-align: center; mso-line-height-alt: 28.799999999999997px;"><span style="font-size:24px;">para que pagues cómodamente</span></p>
+<p style="margin: 0; font-size: 24px; text-align: center; mso-line-height-alt: 28.799999999999997px;"><span style="font-size:24px;">sin impactar el capital de tu Negocio.</span></p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="10" cellspacing="0" class="text_block desktop_hide block-5" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; mso-hide: all; display: none; max-height: 0; overflow: hidden; word-break: break-word;" width="100%">
+<tr>
+<td class="pad">
+<div style="font-family: Arial, sans-serif">
+<div class="" style="font-size: 14px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; mso-line-height-alt: 16.8px; color: #00175a; line-height: 1.2;">
+<p style="margin: 0; font-size: 18px; text-align: center; mso-line-height-alt: 21.599999999999998px;"><span style="font-size:16px;"><span style="">American Express te ofrece múltiples </span><span style="">soluciones de financiamiento</span></span></p>
+<p style="margin: 0; font-size: 18px; text-align: center; mso-line-height-alt: 21.599999999999998px;"><span style="font-size:16px;"><span style="">para que pagues cómodamente </span><span style="">sin impactar el capital de tu Negocio.</span></span></p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+<div class="spacer_block" style="height:10px;line-height:10px;font-size:1px;"> </div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="row row-6 mobile_hide" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;" width="100%">
+<tbody>
+<tr>
+<td>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="row-content stack" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-color: #ffffff; border-radius: 0; color: #000000; width: 620px;" width="620">
+<tbody>
+<tr>
+<td class="column column-1" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-weight: 400; text-align: left; padding-left: 10px; padding-right: 10px; vertical-align: top; border-top: 0px; border-right: 0px; border-bottom: 0px; border-left: 0px;" width="33.333333333333336%">
+<table border="0" cellpadding="0" cellspacing="0" class="image_block block-2" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;" width="100%">
+<tr>
+<td class="pad" style="width:100%;padding-right:0px;padding-left:0px;padding-top:5px;">
+<div align="center" class="alignment" style="line-height:10px"><img class="fullMobileWidth" src="https://lh3.googleusercontent.com/T7f69rHXfwjvrD4aEQ-efkjJ73uhe_ZKJOJCrF11Ukw_l_DMjFIdiYgExrbh86g--dbQ9pd8U3S_v7yFdZG0ggmnnqYJ0ERyBMqzkShFDnvRxnlqOmISyfNxMPK8ykJukriB5U-LvdvvDGBldM5HIyXH0gAwspgWMNt-5AKgw-YdZITHrH0gYKez5hnfFUuiiFEBG0rr9vN367ZGyPCTNBK10awpgQNvamsJRIGGUSi5vAD1iN8YTTvJ0gopicc67ml6Xfftvl41xHz6XTdl9N3QRaltyNXXmx-PvKclFHrIZJCPZ5uIey3-oDsHhhqWY7ngfP-v8Vr0uC1DRbb3M1ruOBzqwhEoL8o6EpnS50gPK7jVbgmuHU-Z_kpkudVSYTmysn5xpyIl3TLYzui75OhtmhfkPoxv97UR1INg33qiI3MdLjTVXZlbFU2lNaVbwzvaIZP7fdIsfCmkKQuTTQdZcJHCDKkyjftSoJeJkg0zaMw3c0mn2_o7pc0KDm8KBDih3RbS1aegWPgDDG-U0Drv7E95xVnrhvGIRcNPmRXWZV3PuEB-ZaKdx-c1Nr3cG22ZVWVTjC1sxl-AuNP0M7e3PHButEGS9c-Dlg6X7gwL3tJeLK5L_WSZadcTPWdQ15PGLjvph7o520qpRAZ8-YI6mO-HPasYlsBr2H6m-PD4WGghWJkdU7Pw4YC8biKCM3cnkD6wRIz7RVrb_mTWWacq-fQIicPzcYC0MS9HGBUmZ1on7mdbkqSkntmgUzYlE0UBtjSxCCvAuwvUZOGSJWASQBd6OOZo89jqx-ovubvtijgHSMQYiayowHVPl85c40erAz7SyHQnK2FigQkY0ypNGFn0XbKNSDF3is5nmevzFpnsBinBkMdqgUl9akcqCfBLF8-8UJ2wIKEsiSHGg6r-SeIBrahypHJJZiiH12Q=w300-h129-s-no?authuser=0" style="display: block; height: auto; border: 0; width: 186px; max-width: 100%;" width="186"/></div>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" class="html_block block-3" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;" width="100%">
+<tr>
+<td class="pad" style="padding-bottom:5px;">
+<div align="center" style="font-family:Helvetica Neue, Helvetica, Arial, sans-serif;text-align:center;"><div class="our-class" style="height:175px;background:#eeeeee; padding:3px 3px; border-radius:0 0 10px 10px;">
+<table style="height:165px;">
+<tr>
+<td style="background-color: #eeeeee; padding-left: 10px; padding-right: 10px; vertical-align: top; padding-top: 10px; padding-bottom: 10px; border-top: 0px; border-right: 0px; border-bottom: 0px; border-left: 0px;" width="100%">
+<div style="font-family: Arial, sans-serif;">
+<div style="font-size: 14px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; mso-line-height-alt: 16.8px; color: #00175a; line-height: 1.2;">
+<p style="margin: 0; font-size: 15px; text-align: center; mso-line-height-alt: 14.399999999999999px;"><span style="font-size:15px;"><strong><span style="font-size:15px;">Financiamiento sin costo</span><span style="font-size:10px;"><sup>1</sup></span></strong></span></p>
+<p style="margin: 0; font-size: 14px; text-align: center; mso-line-height-alt: 14.399999999999999px;"><span style="font-size:14px;">Hasta 39 días de financiamiento sin intereses, adicional a cualquier convenio que tengas con proveedores.</span></p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div></div>
+</td>
+</tr>
+</table>
+</td>
+<td class="column column-2" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-weight: 400; text-align: left; padding-left: 10px; padding-right: 10px; vertical-align: top; border-top: 0px; border-right: 0px; border-bottom: 0px; border-left: 0px;" width="33.333333333333336%">
+<table border="0" cellpadding="0" cellspacing="0" class="image_block block-2" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;" width="100%">
+<tr>
+<td class="pad" style="width:100%;padding-right:0px;padding-left:0px;padding-top:5px;">
+<div align="center" class="alignment" style="line-height:10px"><img class="fullMobileWidth" src="https://lh3.googleusercontent.com/MyeLEMH6KUQfpk5mlirg1alZWXZ7ZI8BY-W5YHxFCuvP00DSmxWBTWAcI9D8UMZXY197uPsmk3rYvYrMsPVebsOUIv_Lciiqs93azToPawtC5BzF4X693rN4d5gCD9oPUHyI82BJNDCdJ1JRBt7-4h7PVFni--dJSSUOpcT6mUoBRL2iOdmQvFXgcWsdeZy73el0azxoQG1QnF87SXhSvWy_r-WBlelziC7f9rtHRxwuNfg8xwh9COZbfpZmreOi4snGtUg7rhw5TLe0FNUj3R4MNn_BIeCWYzvNSjxiiorunj0BS-q9DRqTePggGiihnqAc_ygEVp4Tas8Rt9o_cXz1_ntt_ClgStsiU6ps3UqFips3595_qqrgAyfne5IIZGnmTuhQPVmspMOrZluxy183ZPdsOWqrVt2HRno-DcbcfYNUhgNMow-6wfTlXouBQwLFPLfGKzD6L0V86LixlmFtc7Kh-vA5hmIYBZxDA841sUZHS8Kha9mjU_B_TXg1wwECPeud3dMzk8fwVNlwzYwRKIraEKgRBKhGHGnd2HbHMNmdtWDbXbyWBeNLt6LmYSmClQlM8cGVZg5uapBd3tRCA4AIrFMisITw9M_vuxCUsKC2kBIynwTesSLWQ9PrNvQkhjPNIAz8R2PHx_nwyA_oKxjlP_l1qK1PJSnXmSgIVK36CBj3O2rRWs7SvRtFy2ebvI0_LXrKjnZwvTl2ajcV4hl2oZ_ccyowgX8rVLbfkFPvZ-CmAWHrvJts2jZjxmFgt7x_XOwiLrnnbQHC4z8Xy0VJPNlv_elf3ycWkxQ_SdUDvEm5m9L3taXfJKVnStGUwPkqd0JemfJz6clrqELViBp8dxkIYsgdZ6wvKVu4SpPpsEreNNG5H9XmFDfRzWASp7PZKTQKjtFOauScpnt2wQnWXvBeadOnPsscwc4=w300-h129-s-no?authuser=0" style="display: block; height: auto; border: 0; width: 186px; max-width: 100%;" width="186"/></div>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" class="html_block block-3" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;" width="100%">
+<tr>
+<td class="pad" style="padding-bottom:5px;">
+<div align="center" style="font-family:Helvetica Neue, Helvetica, Arial, sans-serif;text-align:center;"><div class="our-class" style="height:175px;background:#eeeeee; padding:5px 5px; border-radius:0 0 10px 10px;">
+<table style="height:165px;">
+<tr>
+<td style="background-color: #eeeeee; padding-left: 10px; padding-right: 10px; vertical-align: top; padding-top: 10px; padding-bottom: 10px; border-top: 0px; border-right: 0px; border-bottom: 0px; border-left: 0px;" width="100%">
+<div style="font-family: Arial, sans-serif;">
+<div style="font-size: 14px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; mso-line-height-alt: 16.8px; color: #00175a; line-height: 1.2;">
+<p style="margin: 0; text-align: center; font-size: 15px; mso-line-height-alt: 14.399999999999999px;"><span style="font-size:15px;"><strong>Difiere tus pagos<span style="font-size:10px;"><sup>1</sup></span></strong></span></p>
+<p style="margin: 0; text-align: center; font-size: 14px; mso-line-height-alt: 14.399999999999999px;"><span style="font-size:14px;">Mejora el flujo de efectivo de tu Negocio y difiere parte del saldo de tu Tarjeta con plazos de hasta 24 meses con una Tasa de Interés Global Fija Mensual.</span></p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div></div>
+</td>
+</tr>
+</table>
+</td>
+<td class="column column-3" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-weight: 400; text-align: left; padding-left: 10px; padding-right: 10px; vertical-align: top; border-top: 0px; border-right: 0px; border-bottom: 0px; border-left: 0px;" width="33.333333333333336%">
+<table border="0" cellpadding="0" cellspacing="0" class="image_block block-2" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;" width="100%">
+<tr>
+<td class="pad" style="width:100%;padding-right:0px;padding-left:0px;padding-top:5px;">
+<div align="center" class="alignment" style="line-height:10px"><img class="fullMobileWidth" src="https://lh3.googleusercontent.com/MyeLEMH6KUQfpk5mlirg1alZWXZ7ZI8BY-W5YHxFCuvP00DSmxWBTWAcI9D8UMZXY197uPsmk3rYvYrMsPVebsOUIv_Lciiqs93azToPawtC5BzF4X693rN4d5gCD9oPUHyI82BJNDCdJ1JRBt7-4h7PVFni--dJSSUOpcT6mUoBRL2iOdmQvFXgcWsdeZy73el0azxoQG1QnF87SXhSvWy_r-WBlelziC7f9rtHRxwuNfg8xwh9COZbfpZmreOi4snGtUg7rhw5TLe0FNUj3R4MNn_BIeCWYzvNSjxiiorunj0BS-q9DRqTePggGiihnqAc_ygEVp4Tas8Rt9o_cXz1_ntt_ClgStsiU6ps3UqFips3595_qqrgAyfne5IIZGnmTuhQPVmspMOrZluxy183ZPdsOWqrVt2HRno-DcbcfYNUhgNMow-6wfTlXouBQwLFPLfGKzD6L0V86LixlmFtc7Kh-vA5hmIYBZxDA841sUZHS8Kha9mjU_B_TXg1wwECPeud3dMzk8fwVNlwzYwRKIraEKgRBKhGHGnd2HbHMNmdtWDbXbyWBeNLt6LmYSmClQlM8cGVZg5uapBd3tRCA4AIrFMisITw9M_vuxCUsKC2kBIynwTesSLWQ9PrNvQkhjPNIAz8R2PHx_nwyA_oKxjlP_l1qK1PJSnXmSgIVK36CBj3O2rRWs7SvRtFy2ebvI0_LXrKjnZwvTl2ajcV4hl2oZ_ccyowgX8rVLbfkFPvZ-CmAWHrvJts2jZjxmFgt7x_XOwiLrnnbQHC4z8Xy0VJPNlv_elf3ycWkxQ_SdUDvEm5m9L3taXfJKVnStGUwPkqd0JemfJz6clrqELViBp8dxkIYsgdZ6wvKVu4SpPpsEreNNG5H9XmFDfRzWASp7PZKTQKjtFOauScpnt2wQnWXvBeadOnPsscwc4=w300-h129-s-no?authuser=0" style="display: block; height: auto; border: 0; width: 186px; max-width: 100%;" width="186"/></div>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" class="html_block block-3" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;" width="100%">
+<tr>
+<td class="pad" style="padding-bottom:5px;">
+<div align="center" style="font-family:Helvetica Neue, Helvetica, Arial, sans-serif;text-align:center;"><div class="our-class" style="height:175px;background:#eeeeee; padding:5px 5px; border-radius:0 0 10px 10px;">
+<table style="height:165px;">
+<tr>
+<td style="background-color: #eeeeee; padding-left: 10px; padding-right: 10px; vertical-align: top; padding-top: 10px; padding-bottom: 10px; border-top: 0px; border-right: 0px; border-bottom: 0px; border-left: 0px;" width="100%">
+<div style="font-family: Arial, sans-serif;">
+<div style="font-size: 14px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; mso-line-height-alt: 16.8px; color: #00175a; line-height: 1.2;">
+<p style="margin: 0; text-align: center; font-size: 15px; mso-line-height-alt: 14.399999999999999px;"><span style="font-size:15px;"><strong>Meses sin Intereses<span style="font-size:10px;"><sup>2</sup></span></strong></span></p>
+<p style="margin: 0; text-align: center; font-size: 14px; mso-line-height-alt: 14.399999999999999px;"><span style="font-size:14px;">Financia a Meses sin Intereses las compras que realices para tu Negocio en Establecimientos participantes.</span></p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="row row-7 desktop_hide" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; mso-hide: all; display: none; max-height: 0; overflow: hidden;" width="100%">
+<tbody>
+<tr>
+<td>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="row-content stack" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; mso-hide: all; display: none; max-height: 0; overflow: hidden; border-radius: 0; color: #000000; width: 620px;" width="620">
+<tbody>
+<tr>
+<td class="column column-1" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-weight: 400; text-align: left; vertical-align: top; padding-top: 5px; padding-bottom: 5px; border-top: 0px; border-right: 0px; border-bottom: 0px; border-left: 0px;" width="100%">
+<table border="0" cellpadding="0" cellspacing="0" class="image_block block-1" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; mso-hide: all; display: none; max-height: 0; overflow: hidden;" width="100%">
+<tr>
+<td class="pad" style="width:100%;padding-right:0px;padding-left:0px;">
+<div align="center" class="alignment" style="line-height:10px"><img class="big" src="lista.jpg" style="display: block; height: auto; border: 0; width: 620px; max-width: 100%;" width="620"/></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="row row-8 mobile_hide" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;" width="100%">
+<tbody>
+<tr>
+<td>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="row-content stack" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-color: #ffffff; border-radius: 0; color: #000000; width: 620px;" width="620">
+<tbody>
+<tr>
+<td class="column column-1" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-weight: 400; text-align: left; vertical-align: top; padding-top: 25px; padding-bottom: 25px; border-top: 0px; border-right: 0px; border-bottom: 0px; border-left: 0px;" width="100%">
+<table border="0" cellpadding="0" cellspacing="0" class="button_block block-1" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;" width="100%">
+<tr>
+<td class="pad" style="text-align:center;">
+<div align="center" class="alignment">
+<!--[if mso]><v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://www.americanexpress.com/es-mx/negocios/empresarial/solicita/corp/" style="height:47px;width:227px;v-text-anchor:middle;" arcsize="9%" stroke="false" fillcolor="#006fcf"><w:anchorlock/><v:textbox inset="0px,0px,0px,0px"><center style="color:#ffffff; font-family:Arial, sans-serif; font-size:20px"><![endif]--><a href="https://www.americanexpress.com/es-mx/negocios/empresarial/solicita/corp/" style="text-decoration:none;display:inline-block;color:#ffffff;background-color:#006fcf;border-radius:4px;width:auto;border-top:0px solid transparent;font-weight:400;border-right:0px solid transparent;border-bottom:0px solid transparent;border-left:0px solid transparent;padding-top:5px;padding-bottom:5px;font-family:Helvetica Neue, Helvetica, Arial, sans-serif;font-size:20px;text-align:center;mso-border-alt:none;word-break:keep-all;" target="_blank"><span style="padding-left:40px;padding-right:40px;font-size:20px;display:inline-block;letter-spacing:normal;"><span dir="ltr" style="word-break: break-word; line-height: 36px;"><strong>Solicítala ahora</strong></span></span></a>
+<!--[if mso]></center></v:textbox></v:roundrect><![endif]-->
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="row row-9 desktop_hide" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; mso-hide: all; display: none; max-height: 0; overflow: hidden;" width="100%">
+<tbody>
+<tr>
+<td>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="row-content stack" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; mso-hide: all; display: none; max-height: 0; overflow: hidden; background-color: #ffffff; border-radius: 0; color: #000000; width: 620px;" width="620">
+<tbody>
+<tr>
+<td class="column column-1" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-weight: 400; text-align: left; vertical-align: top; padding-top: 25px; padding-bottom: 25px; border-top: 0px; border-right: 0px; border-bottom: 0px; border-left: 0px;" width="100%">
+<table border="0" cellpadding="0" cellspacing="0" class="button_block block-1" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; mso-hide: all; display: none; max-height: 0; overflow: hidden;" width="100%">
+<tr>
+<td class="pad" style="text-align:center;">
+<div align="center" class="alignment">
+<!--[if mso]><v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://www.americanexpress.com/es-mx/negocios/empresarial/solicita/corp/" style="height:47px;width:197px;v-text-anchor:middle;" arcsize="9%" stroke="false" fillcolor="#006fcf"><w:anchorlock/><v:textbox inset="0px,0px,0px,0px"><center style="color:#ffffff; font-family:Arial, sans-serif; font-size:20px"><![endif]--><a href="https://www.americanexpress.com/es-mx/negocios/empresarial/solicita/corp/" style="text-decoration:none;display:inline-block;color:#ffffff;background-color:#006fcf;border-radius:4px;width:auto;border-top:0px solid transparent;font-weight:400;border-right:0px solid transparent;border-bottom:0px solid transparent;border-left:0px solid transparent;padding-top:5px;padding-bottom:5px;font-family:Helvetica Neue, Helvetica, Arial, sans-serif;font-size:20px;text-align:center;mso-border-alt:none;word-break:keep-all;" target="_blank"><span style="padding-left:25px;padding-right:25px;font-size:20px;display:inline-block;letter-spacing:normal;"><span dir="ltr" style="word-break: break-word; line-height: 36px;"><strong>Solicítala ahora</strong></span></span></a>
+<!--[if mso]></center></v:textbox></v:roundrect><![endif]-->
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="row row-10 mobile_hide" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;" width="100%">
+<tbody>
+<tr>
+<td>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="row-content stack" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-color: #e8e8e8; border-bottom: 0 solid #FFFFFF; border-left: 0 solid #FFFFFF; border-right: 0px solid #FFFFFF; border-top: 0 solid #FFFFFF; color: #000000; width: 620px;" width="620">
+<tbody>
+<tr>
+<td class="column column-1" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-weight: 400; text-align: left; border-top: 2px solid #006FCF; padding-left: 10px; padding-right: 10px; vertical-align: top; padding-top: 10px; padding-bottom: 25px; border-right: 0px; border-bottom: 0px; border-left: 0px;" width="100%">
+<table border="0" cellpadding="0" cellspacing="0" class="text_block block-1" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word;" width="100%">
+<tr>
+<td class="pad" style="padding-bottom:5px;padding-left:10px;padding-right:10px;padding-top:10px;">
+<div style="font-family: sans-serif">
+<div class="" style="font-size: 14px; mso-line-height-alt: 16.8px; color: #006fcf; line-height: 1.2; font-family: Helvetica Neue, Helvetica, Arial, sans-serif;">
+<p style="margin: 0; text-align: center; font-size: 30px; mso-line-height-alt: 36px;"><span style="font-size:30px;"><strong>Podrás recibir una bonificación</strong></span></p>
+<p style="margin: 0; text-align: center; font-size: 30px; mso-line-height-alt: 36px;"><span style="font-size:30px;"><strong>de hasta </strong></span><span style="font-size:30px;"><strong>$30,000.00 M.N.</strong></span></p>
+<p style="margin: 0; text-align: center; font-size: 30px; mso-line-height-alt: 36px;"><span style="font-size:30px;"><strong>al adquirir La Tarjeta<span style="font-size:20px;"><sup>3</sup></span>.</strong></span></p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="row row-11 desktop_hide" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; mso-hide: all; display: none; max-height: 0; overflow: hidden;" width="100%">
+<tbody>
+<tr>
+<td>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="row-content stack" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; mso-hide: all; display: none; max-height: 0; overflow: hidden; background-color: #e8e8e8; border-bottom: 0 solid #FFFFFF; border-left: 0 solid #FFFFFF; border-right: 0px solid #FFFFFF; border-top: 0 solid #FFFFFF; color: #000000; width: 620px;" width="620">
+<tbody>
+<tr>
+<td class="column column-1" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-weight: 400; text-align: left; border-top: 2px solid #006FCF; padding-left: 10px; padding-right: 10px; vertical-align: top; padding-top: 10px; padding-bottom: 10px; border-right: 0px; border-bottom: 0px; border-left: 0px;" width="100%">
+<table border="0" cellpadding="0" cellspacing="0" class="text_block block-1" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word; mso-hide: all; display: none; max-height: 0; overflow: hidden;" width="100%">
+<tr>
+<td class="pad" style="padding-bottom:5px;padding-left:10px;padding-right:10px;padding-top:10px;">
+<div style="font-family: sans-serif">
+<div class="" style="font-size: 14px; mso-line-height-alt: 16.8px; color: #006fcf; line-height: 1.2; font-family: Helvetica Neue, Helvetica, Arial, sans-serif;">
+<p style="margin: 0; text-align: center; font-size: 20px; mso-line-height-alt: 24px;"><span style="font-size:20px;"><strong>Podrás recibir una bonificación </strong></span><span style="font-size:20px;"><span style=""><strong>de hasta </strong></span><span style=""><strong>$30,000.00 M.N. </strong></span></span><span style="font-size:20px;"><strong>al adquirir La Tarjeta<span style="font-size:15px;"><sup>3</sup></span>.</strong></span></p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="row row-12" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;" width="100%">
+<tbody>
+<tr>
+<td>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="row-content stack" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-radius: 0; color: #000000; background-color: #00175a; width: 620px;" width="620">
+<tbody>
+<tr>
+<td class="column column-1" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-weight: 400; text-align: left; vertical-align: top; padding-top: 0px; padding-bottom: 0px; border-top: 0px; border-right: 0px; border-bottom: 0px; border-left: 0px;" width="100%">
+<table border="0" cellpadding="0" cellspacing="0" class="image_block block-1" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;" width="100%">
+<tr>
+<td class="pad" style="width:100%;padding-right:0px;padding-left:0px;">
+<div align="center" class="alignment" style="line-height:10px"><img class="big" src="https://lh3.googleusercontent.com/NWP8dlHWy-pm3iFIFZe7M-9skmjLcegQLdHrp6G7qytmsEH212s2w4l5Lxy7KLUIgPqMk-GL_0Sc2yhoM9EKsKiXS22Qh2gjbpWRWoCJLZ-UhPFtK-0sizSW_yZLCECtmnE4V3-Kl-HDTjjKOci6e42rA-UAtFQ1Vkdvor2AMPCwW8w4qP0FEJdoMcv_HC8ejGzBHTwwb2gTzLw58X8YmwImGO0zHsaRnbdMeRvFTfX7_UqqgwU12CDiNrdOEZ8TIqbVpJL-z7cBwWMmZb8cGNw4yhpghPVpQSEEbLWIPCwWQ7jkdDxR8q5dZHzVPhQ-9sixbKWMS4-1HOiD9Yb01_NAVAlzlw0_SshjxDp5g6wm9n3gxsknlKaLGCBKbnkLeaQf-l72MSNldmZPYtKomCgCRHcO_BUugKDI9-hZG6UuOch6t8fnhL4bTdbrCzKV6D66T-9prm3g6R7uU_Nx9IZmXHQ_lc8VxiSFrMXwp1jRBoK6L8LKO0v6bmlQXMPHG3d7T6XJ4B0j-axpzZAjAlToGkQldeHUfkN-w-Nc8NQG34ZkRr1N_Y_L3QUgDbbgyA2QSUK3NH4XHAJoWLQqWzSkLYHM-CCM7vpciAhkSeFfVSEpW-bCbe2VxLbuAHHegBacNliPUU_DHTIk1-ut6ulLg8npSwe_f9kjTm1M4emjp4-UUTPN7r7eUR0KdE-sdo2GI_dVodCLL_V2PnV8bxmA6bR2z78B8iyXMR7IgwvyPLeBWJ1VBSJsqmIZ2posxV5EiZWZQDRAqNzmrgG3y1pdWfKpON-iT3ig7GVaVeuBHpsMu0gZedT5Gy3tan54ky1ISj5q1jRDlvNPYX_xFl2UkawhQIclG8RaB43oZLOhQ8krWDFqf8QD0YTp83PxK-6qjBMIdTvAM5eIzmThT9cfpHCZitmL66Xt_WnykcE=w1080-h159-s-no?authuser=0" style="display: block; height: auto; border: 0; width: 620px; max-width: 100%;" width="620"/></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="row row-13" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;" width="100%">
+<tbody>
+<tr>
+<td>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="row-content stack" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-color: #ffffff; border-bottom: 0 solid #FFFFFF; border-left: 0 solid #FFFFFF; border-right: 0px solid #FFFFFF; border-top: 0 solid #FFFFFF; color: #000000; width: 620px;" width="620">
+<tbody>
+<tr>
+<td class="column column-1" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-weight: 400; text-align: left; padding-left: 10px; padding-right: 10px; vertical-align: top; padding-top: 10px; padding-bottom: 10px; border-top: 0px; border-right: 0px; border-bottom: 0px; border-left: 0px;" width="100%">
+<table border="0" cellpadding="10" cellspacing="0" class="text_block block-1" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word;" width="100%">
+<tr>
+<td class="pad">
+<div style="font-family: sans-serif">
+<div class="" style="font-size: 14px; mso-line-height-alt: 16.8px; color: #000000; line-height: 1.2; font-family: Helvetica Neue, Helvetica, Arial, sans-serif;">
+<p style="margin: 0; text-align: justify; mso-line-height-alt: 16.8px;"><strong><span style="font-size:11px;">Términos y Condiciones</span></strong></p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="10" cellspacing="0" class="text_block block-2" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word;" width="100%">
+<tr>
+<td class="pad">
+<div style="font-family: sans-serif">
+<div class="" style="font-size: 14px; mso-line-height-alt: 16.8px; color: #000000; line-height: 1.2; font-family: Helvetica Neue, Helvetica, Arial, sans-serif;">
+<p style="margin: 0; text-align: left; mso-line-height-alt: 16.8px;"><span style="font-size:11px;">1. Consulta Términos y Condiciones de las opciones de financiamiento en <strong><a href="https://protect-eu.mimecast.com/s/8426CW7EqfxB9qm8f6yJYB?domain=americanexpress.com" rel="noopener" style="text-decoration: underline; color: #006fcf;" target="_blank">www.americanexpress.com/mexico/contratos/opcionesdefinanciamiento</a></strong></span></p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="10" cellspacing="0" class="text_block block-3" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word;" width="100%">
+<tr>
+<td class="pad">
+<div style="font-family: sans-serif">
+<div class="" style="font-size: 14px; mso-line-height-alt: 16.8px; color: #000000; line-height: 1.2; font-family: Helvetica Neue, Helvetica, Arial, sans-serif;">
+<p style="margin: 0; text-align: left; mso-line-height-alt: 16.8px;"><span style="font-size:11px;">2.  <span style="font-size:26px;"><strong>CAT 0%</strong></span> sin IVA. Informativo, calculado a agosto de 2022.</span></p>
+<p style="margin: 0; text-align: justify; mso-line-height-alt: 31.2px;"><span style="font-size:11px;">Meses sin Intereses: El beneficio de Meses sin Intereses es aplicable únicamente para Tarjetas Empresariales ("Tarjetas Corporativas") emitidas por American Express Company (México), S.A. de C.V. ("American Express") a excepción de la Cuenta Centralizada para Boletos de Avión (EBTA), la plataforma American Express<span style="font-size:9px;"><sup>®</sup></span> "BIP Express" y American Express<span style="font-size:9px;"><sup>®</sup></span> Corporate Gasoline Card. La Tarjeta deberá estar vigente y al corriente en sus pagos. Meses sin Intereses aplica únicamente en los Establecimientos que ofrezcan el beneficio. Los plazos y monto mínimo de compra los fijará el Establecimiento sin que este pueda ser inferior a $500.00 M.N. Consulta Términos y Condiciones en los Establecimientos participantes. Sujeto a aprobación de American Express. Las mensualidades se verán reflejadas en cada corte de La Tarjeta dentro del Estado de Cuenta del cliente. Valida que tu Programa de Tarjetas Corporativas se encuentre inscrito en el beneficio de Meses sin Intereses llamando a la Unidad de Atención Especializada para Contactos Empresariales al 800 841 3880, de lunes a viernes de 8:30 a 19:00 horas o si tú eres Tarjetahabiente empresarial, llamando al 800 507 1200, las 24 horas, los 365 días del año.</span></p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="10" cellspacing="0" class="text_block block-4" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word;" width="100%">
+<tr>
+<td class="pad">
+<div style="font-family: sans-serif">
+<div class="" style="font-size: 14px; mso-line-height-alt: 16.8px; color: #000000; line-height: 1.2; font-family: Helvetica Neue, Helvetica, Arial, sans-serif;">
+<p style="margin: 0; text-align: justify; mso-line-height-alt: 16.8px;"><span style="font-size:11px;">3. Consulta requisitos de contratación, comisiones, vigencias, Términos y Condiciones de Las Tarjetas Corporativas American Express en <strong><a href="https://www.americanexpress.com/mexico/contratos" rel="noopener" style="text-decoration: underline; color: #006fcf;" target="_blank">www.americanexpress.com/mexico/contratos</a> </strong></span></p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="row row-14" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;" width="100%">
+<tbody>
+<tr>
+<td>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="row-content stack" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-color: #ffffff; color: #000000; width: 620px;" width="620">
+<tbody>
+<tr>
+<td class="column column-1" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-weight: 400; text-align: left; padding-left: 10px; padding-right: 10px; vertical-align: top; padding-top: 0px; padding-bottom: 10px; border-top: 0px; border-right: 0px; border-bottom: 0px; border-left: 0px;" width="100%">
+<table border="0" cellpadding="0" cellspacing="0" class="divider_block block-1" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;" width="100%">
+<tr>
+<td class="pad" style="padding-left:10px;padding-right:10px;">
+<div align="center" class="alignment">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;" width="100%">
+<tr>
+<td class="divider_inner" style="font-size: 1px; line-height: 1px; border-top: 1px solid #000000;"><span> </span></td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="10" cellspacing="0" class="text_block block-2" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word;" width="100%">
+<tr>
+<td class="pad">
+<div style="font-family: sans-serif">
+<div class="" style="font-size: 14px; mso-line-height-alt: 16.8px; color: #000000; line-height: 1.2; font-family: Helvetica Neue, Helvetica, Arial, sans-serif;">
+<p style="margin: 0; text-align: justify; mso-line-height-alt: 16.8px;"><span style="font-size:11px;">2023 Derechos Reservados © American Express Company (México), S.A. de C.V.</span></p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table><!-- End -->
+</body>
+</html>
